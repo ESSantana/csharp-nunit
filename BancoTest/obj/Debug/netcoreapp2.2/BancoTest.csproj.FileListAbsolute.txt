@@ -1,0 +1,17 @@
+C:\Users\emerson.santana\Documents\Consolidacao\BancoTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\emerson.santana\Documents\Consolidacao\BancoTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\emerson.santana\Documents\Consolidacao\BancoTest\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\emerson.santana\Documents\Consolidacao\BancoTest\bin\Debug\netcoreapp2.2\BancoTest.deps.json
+C:\Users\emerson.santana\Documents\Consolidacao\BancoTest\bin\Debug\netcoreapp2.2\BancoTest.runtimeconfig.json
+C:\Users\emerson.santana\Documents\Consolidacao\BancoTest\bin\Debug\netcoreapp2.2\BancoTest.runtimeconfig.dev.json
+C:\Users\emerson.santana\Documents\Consolidacao\BancoTest\bin\Debug\netcoreapp2.2\BancoTest.dll
+C:\Users\emerson.santana\Documents\Consolidacao\BancoTest\bin\Debug\netcoreapp2.2\BancoTest.pdb
+C:\Users\emerson.santana\Documents\Consolidacao\BancoTest\bin\Debug\netcoreapp2.2\Banco.dll
+C:\Users\emerson.santana\Documents\Consolidacao\BancoTest\bin\Debug\netcoreapp2.2\Banco.pdb
+C:\Users\emerson.santana\Documents\Consolidacao\BancoTest\obj\Debug\netcoreapp2.2\BancoTest.csprojAssemblyReference.cache
+C:\Users\emerson.santana\Documents\Consolidacao\BancoTest\obj\Debug\netcoreapp2.2\BancoTest.csproj.CoreCompileInputs.cache
+C:\Users\emerson.santana\Documents\Consolidacao\BancoTest\obj\Debug\netcoreapp2.2\BancoTest.AssemblyInfoInputs.cache
+C:\Users\emerson.santana\Documents\Consolidacao\BancoTest\obj\Debug\netcoreapp2.2\BancoTest.AssemblyInfo.cs
+C:\Users\emerson.santana\Documents\Consolidacao\BancoTest\obj\Debug\netcoreapp2.2\BancoTest.csproj.CopyComplete
+C:\Users\emerson.santana\Documents\Consolidacao\BancoTest\obj\Debug\netcoreapp2.2\BancoTest.dll
+C:\Users\emerson.santana\Documents\Consolidacao\BancoTest\obj\Debug\netcoreapp2.2\BancoTest.pdb

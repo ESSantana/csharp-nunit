@@ -1,0 +1,9 @@
+C:\Users\emerson.santana\Documents\Consolidacao\Banco\bin\Debug\netstandard2.0\Banco.deps.json
+C:\Users\emerson.santana\Documents\Consolidacao\Banco\bin\Debug\netstandard2.0\Banco.dll
+C:\Users\emerson.santana\Documents\Consolidacao\Banco\bin\Debug\netstandard2.0\Banco.pdb
+C:\Users\emerson.santana\Documents\Consolidacao\Banco\obj\Debug\netstandard2.0\Banco.csprojAssemblyReference.cache
+C:\Users\emerson.santana\Documents\Consolidacao\Banco\obj\Debug\netstandard2.0\Banco.csproj.CoreCompileInputs.cache
+C:\Users\emerson.santana\Documents\Consolidacao\Banco\obj\Debug\netstandard2.0\Banco.AssemblyInfoInputs.cache
+C:\Users\emerson.santana\Documents\Consolidacao\Banco\obj\Debug\netstandard2.0\Banco.AssemblyInfo.cs
+C:\Users\emerson.santana\Documents\Consolidacao\Banco\obj\Debug\netstandard2.0\Banco.dll
+C:\Users\emerson.santana\Documents\Consolidacao\Banco\obj\Debug\netstandard2.0\Banco.pdb
